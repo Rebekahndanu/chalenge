@@ -1,0 +1,29 @@
+body {
+    margin-top: 50px;
+}
+
+.checkMark{
+    font-size: 1.5rem;
+    color:brown;
+}
+
+.xMark{
+    font-size: 1.5rem;
+    color: grey;
+}
+
+.examples td{
+    font-size: 1.5rem;
+}
+
+#btnSubmit {
+    color: white;
+    background-color: brown;
+    border: none;
+}
+
+.col-12 col-md-6 order-first order-md-2{
+    width: 300px;
+    height: 300px;
+}
+
